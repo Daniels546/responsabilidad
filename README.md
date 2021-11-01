@@ -1,0 +1,2 @@
+# responsabilidad
+Software de Indicadores
